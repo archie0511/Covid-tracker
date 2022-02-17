@@ -7,6 +7,5 @@ graph are also displayed for a better user interface
 
 
 
-
-#Screenshot
+## Screenshots
 ![Screenshot (7)](https://user-images.githubusercontent.com/72190252/154531915-7c94b03c-3c65-4a50-8c35-0aa5c24157fc.png)
